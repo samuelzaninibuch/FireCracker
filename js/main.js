@@ -1,4 +1,4 @@
-import { socks, bases, createSock, deleteSock, createBase, deleteBase } from './socks/sock.js';
+import { socks, bases, createSock, deleteSock, createBase, deleteBase } from './sock/sock.js';
 import { CreatePocket, DeletePocket, pocket } from './pocket/pocket.js';
 export const data = {};
 export const cache = {};
